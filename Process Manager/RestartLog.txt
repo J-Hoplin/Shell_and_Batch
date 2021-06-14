@@ -1,0 +1,76 @@
+
+========== New Execution at 2021/06/13 23:57 ==========
+Manage Process of : test
+Restart Cycle : 1m
+
+
+[ 2021/06/13 23:58:04 ] : Restart Process
+[ 2021/06/13 23:58:04 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/13 23:59:04 ] : Restart Process
+[ 2021/06/13 23:59:04 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+=======================================================
+
+
+
+========== New Execution at 2021/06/14 19:57 ==========
+Manage Process of : test.py
+Restart Cycle : 1m
+
+
+[ 2021/06/14 19:58:28 ] : Restart Process
+[ 2021/06/14 19:58:28 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 19:59:28 ] : Restart Process
+[ 2021/06/14 19:59:28 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:00:28 ] : Restart Process
+[ 2021/06/14 20:00:28 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+=======================================================
+
+
+
+========== New Execution at 2021/06/14 20:13 ==========
+Manage Process of : test
+Restart Cycle : 1m
+
+
+[ 2021/06/14 20:14:58 ] : Restart Process
+[ 2021/06/14 20:14:58 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:15:58 ] : Restart Process
+[ 2021/06/14 20:15:58 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:16:49 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:16:58 ] : Restart Process
+[ 2021/06/14 20:16:58 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:17:12 ] : Process has been removed manually by the user
+[ 2021/06/14 20:17:12 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+=======================================================
+
+
+
+========== New Execution at 2021/06/14 20:19 ==========
+Manage Process of : test
+Restart Cycle : 1m
+
+
+[ 2021/06/14 20:20:55 ] : Restart Process
+[ 2021/06/14 20:20:55 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:21:55 ] : Restart Process
+[ 2021/06/14 20:21:55 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:22:08 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+[ 2021/06/14 20:22:20 ] : Process has been removed manually by the user
+[ 2021/06/14 20:22:20 ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.
+
+=======================================================
+
+
