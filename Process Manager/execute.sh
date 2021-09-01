@@ -3,4 +3,4 @@
 #Script written by Hoplin
 
 #Write command : Executing process
-echo `python test.py`
+python test.py
