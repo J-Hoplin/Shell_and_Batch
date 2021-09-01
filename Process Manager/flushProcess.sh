@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "[ $(date +%Y)/$(date +%m)/$(date +%d) $(date +%H):$(date +%M):$(date +%S) ] : Manager closed safely" >> RestartLog.txt
 echo -e "=======================================================\n\n" >> RestartLog.txt
 
 managingProcess=$(<.nowexecuting.txt)
@@ -11,8 +12,8 @@ pid="ps -ef | grep '$managingProcess' | grep -v 'grep' | grep -v 'bash'"
 getProcessPID=`eval $pid | awk '{print $2}'`
 
 
-echo `kill -9 $getExecuteCheckerPID`
-echo `kill -9 $getRestartCheckerPID`
-echo `kill -9 $getExecuterPID`
-echo `kill -15 $getProcessPID`
-echo `rm .nowexecuting.txt`
+kill -9 $getExecuteCheckerPID
+kill -9 $getRestartCheckerPID
+kill -9 $getExecuterPID
+kill -15 $getProcessPID
+rm .nowexecuting.txt
