@@ -27,7 +27,7 @@ do
     # -z옵션 : check if the given string operand size is zero
     if [ -z $getPID ]
     then
-        echo `bash execute.sh`
+        bash execute.sh
     fi
     addToResLog "[ $(date +%Y)/$(date +%m)/$(date +%d) $(date +%H):$(date +%M):$(date +%S) ] : Please check log with same time data up of this log. If not exist, process closed in abnormal reason.\n"
 done
