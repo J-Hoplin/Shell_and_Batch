@@ -17,9 +17,14 @@ apt install golang-go -y
 apt-get install python3 -y
 apt-get install python3-pip -y
 
+# pip3 installation
+apt-get install python3-pip -y
+
 # Node JS Runtime Installation
 apt-get install nodejs -y
+# NPM installation
 apt-get install npm
+# Node js update to LTS
 npm install -g n
 # Update to latest
 n latest
