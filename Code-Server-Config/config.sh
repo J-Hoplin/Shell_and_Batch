@@ -19,6 +19,8 @@ apt-get install python3-pip -y
 
 # pip3 installation
 apt-get install python3-pip -y
+# Jupyter notebook Installation
+pip3 install jupyter
 
 # Node JS Runtime Installation
 apt-get install nodejs -y
